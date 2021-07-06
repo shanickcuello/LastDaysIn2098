@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"E:\\Beta\\Davinci\\5tiCuatri\\Programacion en motores 1\\Proyecto2\\EpicSurvivalGameSeries-master\\EpicSurvivalGameSeries-master\\SurvivalGame\\Source\\SurvivalGame\\SurvivalGame.Build.cs",
+		"E:\\Beta\\Davinci\\5tiCuatri\\Programacion en motores 1\\Proyecto2\\EpicSurvivalGameSeries-master\\EpicSurvivalGameSeries-master\\SurvivalGame\\Source\\SurvivalGame.Target.cs",
+		"E:\\Beta\\Davinci\\5tiCuatri\\Programacion en motores 1\\Proyecto2\\EpicSurvivalGameSeries-master\\EpicSurvivalGameSeries-master\\SurvivalGame\\Source\\SurvivalGameEditor.Target.cs",
+		"E:\\Beta\\Davinci\\5tiCuatri\\Programacion en motores 1\\Proyecto2\\EpicSurvivalGameSeries-master\\EpicSurvivalGameSeries-master\\SurvivalGame\\Source\\SurvivalGameServer.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

@@ -1,0 +1,228 @@
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGame\Definitions.SurvivalGame.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/BTTask_FindBotWaypoint.gen.cpp
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/AI/BTTask_FindBotWaypoint.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/Tasks/BTTask_BlackboardBase.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTTaskNode.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTNode.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTreeTypes.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BehaviorTreeTypes.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTreeComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BrainComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\AIResourceInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIResourceInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BrainComponent.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BehaviorTreeComponent.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BlackboardAssetProvider.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BlackboardAssetProvider.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\Tasks/AITask.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITask.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTNode.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTTaskNode.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTTask_BlackboardBase.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\BTTask_FindBotWaypoint.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/BTTask_FindPatrolLocation.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/AI/BTTask_FindPatrolLocation.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\BTTask_FindPatrolLocation.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SBaseCharacter.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Player/SBaseCharacter.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/STypes.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\STypes.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SBaseCharacter.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SBombActor.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Items/SBombActor.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame\Public\Items\SUsableActor.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SUsableActor.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SBombActor.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SBotWaypoint.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/AI/SBotWaypoint.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TargetPoint.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TargetPoint.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SBotWaypoint.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SCarryObjectComponent.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Components/SCarryObjectComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SCarryObjectComponent.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SCharacter.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Player/SCharacter.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SCharacter.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SCharacterMovementComponent.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Components/SCharacterMovementComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SCharacterMovementComponent.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SConsumableActor.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Items/SConsumableActor.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame\Public\Items/SPickupActor.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SPickupActor.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SConsumableActor.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SCoopGameMode.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/World/SCoopGameMode.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame\Public\World\SGameMode.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame\Public\Mutators/SMutator.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SMutator.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SGameMode.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SCoopGameMode.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SDamageType.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Items/SDamageType.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SDamageType.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SFlashlight.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Items/SFlashlight.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame\Public\Items/SWeapon.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SWeapon.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SFlashlight.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SGameInstance.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/World/SGameInstance.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SGameInstance.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SGameMode.gen.cpp
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SGameplayStatics.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Core/SGameplayStatics.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SGameplayStatics.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SGameState.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/World/SGameState.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameState.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameState.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SGameState.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SHUD.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/UI/SHUD.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SHUD.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SImpactEffect.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Items/SImpactEffect.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SImpactEffect.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SLocalPlayer.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Player/SLocalPlayer.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SLocalPlayer.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SMutator.gen.cpp
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SMutator_WeaponReplacement.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Mutators/SMutator_WeaponReplacement.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SMutator_WeaponReplacement.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SOpenWorldGameMode.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/World/SOpenWorldGameMode.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SOpenWorldGameMode.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SoundNodeLocalPlayer.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Editor/SoundNodeLocalPlayer.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SoundNodeLocalPlayer.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SPickupActor.gen.cpp
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SPlayerCameraManager.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Player/SPlayerCameraManager.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SPlayerCameraManager.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SPlayerController.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Player/SPlayerController.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SPlayerController.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SPlayerStart.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/World/SPlayerStart.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerStart.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationObjectBase.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerStart.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SPlayerStart.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SPlayerState.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Player/SPlayerState.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SPlayerState.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SSpectatorPawn.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Player/SSpectatorPawn.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SpectatorPawn.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPawn.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DefaultPawn.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpectatorPawn.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SSpectatorPawn.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/STimeOfDayManager.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/World/STimeOfDayManager.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\STimeOfDayManager.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/STypes.gen.cpp
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SurvivalGame.init.gen.cpp
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SUsableActor.gen.cpp
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SWeapon.gen.cpp
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SWeaponInstant.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Items/SWeaponInstant.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SWeaponInstant.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SWeaponPickup.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/Items/SWeaponPickup.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SWeaponPickup.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SZombieAIController.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/AI/SZombieAIController.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\AIController.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\Navigation/PathFollowingComponent.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationDataInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationData.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionListenerInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionListenerInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+E:\Beta\Programas\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SZombieAIController.generated.h
+E:/Beta/Davinci/5tiCuatri/Programacion en motores 1/Proyecto2/EpicSurvivalGameSeries-master/EpicSurvivalGameSeries-master/SurvivalGame/Intermediate/Build/Win64/UE4Editor/Inc/SurvivalGame/SZombieCharacter.gen.cpp
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Source\SurvivalGame/Public/AI/SZombieCharacter.h
+E:\Beta\Davinci\5tiCuatri\Programacion en motores 1\Proyecto2\EpicSurvivalGameSeries-master\EpicSurvivalGameSeries-master\SurvivalGame\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalGame\SZombieCharacter.generated.h

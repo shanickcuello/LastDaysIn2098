@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "SurvivalGame",
+			"Path": "E:\\Beta\\Davinci\\5tiCuatri\\Programacion en motores 1\\Proyecto2\\EpicSurvivalGameSeries-master\\EpicSurvivalGameSeries-master\\SurvivalGame\\Source\\SurvivalGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SurvivalGameEditor",
+			"Path": "E:\\Beta\\Davinci\\5tiCuatri\\Programacion en motores 1\\Proyecto2\\EpicSurvivalGameSeries-master\\EpicSurvivalGameSeries-master\\SurvivalGame\\Source\\SurvivalGameEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "SurvivalGameServer",
+			"Path": "E:\\Beta\\Davinci\\5tiCuatri\\Programacion en motores 1\\Proyecto2\\EpicSurvivalGameSeries-master\\EpicSurvivalGameSeries-master\\SurvivalGame\\Source\\SurvivalGameServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}
